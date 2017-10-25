@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Ur Dun Harakh Bolomjtoi </h1>
+<h1>Anhaaral Tawisand Bayrlalaa :=)))</h1>
 
 </body>
 </html>
